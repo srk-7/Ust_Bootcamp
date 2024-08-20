@@ -1,0 +1,2 @@
+1) only added questions are not showing in survey setname
+2) empty question numbers no result
